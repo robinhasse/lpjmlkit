@@ -1,4 +1,4 @@
-# Toolkit for Basic LPJmL Handling <a href=''><img src='inst/img/logo.png' align='right' height='139' /></a>
+<a href=''><img src='inst/img/logo.png' align='right' height='139' width=300 /></a># Toolkit for Basic LPJmL Handling 
 
 R package **lpjmlkit**, version **1.7.1**
 
